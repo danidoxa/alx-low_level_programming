@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- * main - A program that prints exactly and that piece of art is useful - Dora Korpar, date, followed by a new line, to the standard error.
+ * main - A program that prints exactly
  *
  * Return: 1 (Success)
  */
